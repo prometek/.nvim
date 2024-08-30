@@ -1,1 +1,2 @@
-require("prometek")
+require("config.lazy")
+
